@@ -1,8 +1,7 @@
 
 # Hola a todos 👋
-Este es el lugar donde publico proyectos de código abierto y rompo cosas por diversión 🤣
+Este es el lugar donde publico proyectos de código abierto.
 
-🔭 Actualmente estoy trabajando en algo interesante 😉  
 👨‍💻 Descubre más sobre mis proyectos en [galgo.dev](https://galgo.dev)  
 ⚡ Dato curioso: Me encantan videojuegos (Steam: rogerpuntoexe)  
 
