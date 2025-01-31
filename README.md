@@ -8,7 +8,7 @@ Este es el lugar donde publico proyectos de código abierto.
 ---
 
 ## ✨ Sobre mí  
-Soy un desarrollador Full Stack con más de **4 años de experiencia** en el desarrollo de aplicaciones empresariales y software de código abierto.  
+Soy un desarrollador Full Stack con más de **4 años de experiencia**, también soy administrador de sistemas con más de 10 años de experiencia.
 
 ---
 
